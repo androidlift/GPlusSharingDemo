@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577978181732",
+    "project_id": "gpluslogindemo-153906"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577978181732:android:bd5ea419ca3bce63",
+        "android_client_info": {
+          "package_name": "info.androidlift.gpluslogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577978181732-007dss7gcfl92khips9jk10g3se9ncvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidlift.gpluslogindemo",
+            "certificate_hash": "8099B1BBC17D73C9D0C75970AECF65B8164AE952"
+          }
+        },
+        {
+          "client_id": "577978181732-bnlkdqgmmuq7ltdkcskic0cr7kcn8dlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6J3R8-ciChwFtVF9u7qh9P9do6uaXWI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
