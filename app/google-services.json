@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "577978181732",
-    "project_id": "gpluslogindemo-153906"
+    "project_number": "683831144830",
+    "project_id": "gplussharingdemo"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:577978181732:android:bd5ea419ca3bce63",
+        "mobilesdk_app_id": "1:683831144830:android:05ab5a694d7b9b04",
         "android_client_info": {
-          "package_name": "info.androidlift.gpluslogindemo"
+          "package_name": "info.androidlift.gplussharingdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "577978181732-007dss7gcfl92khips9jk10g3se9ncvd.apps.googleusercontent.com",
+          "client_id": "683831144830-0nv22lr752ql0bl8qc21kio46v54hj48.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "info.androidlift.gpluslogindemo",
+            "package_name": "info.androidlift.gplussharingdemo",
             "certificate_hash": "8099B1BBC17D73C9D0C75970AECF65B8164AE952"
           }
         },
         {
-          "client_id": "577978181732-bnlkdqgmmuq7ltdkcskic0cr7kcn8dlu.apps.googleusercontent.com",
+          "client_id": "683831144830-mg7j000k4m5re52jdslv9s2njk4jh8ik.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6J3R8-ciChwFtVF9u7qh9P9do6uaXWI0"
+          "current_key": "AIzaSyD8rKLokjbIGuWhR1ygQ8n0jzy18tEBloc"
         }
       ],
       "services": {

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="info.androidlift.gplussharingdemo.MainActivity">
+
+    <com.google.android.gms.plus.PlusOneButton xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+        android:id="@+id/btnGooglePlusOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        plus:annotation="inline"
+        plus:size="standard" />
+
+    <Button
+        android:id="@+id/btnShareText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#ff0000"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Share Text on Google+"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/btnShareMedia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#ff0000"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Share Media on Google+"
+        android:textColor="#ffffff" />
+
+</LinearLayout>
